@@ -185,3 +185,5 @@ with tab3:
         st.divider()
 
         ejecutar_analisis(paciente)
+
+##jhhkkh
